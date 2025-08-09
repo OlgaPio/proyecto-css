@@ -28,7 +28,7 @@ html{
 .header_menu{
     display: flex;
     align-items: center;
-    gap: 28px;
+    gap: 20px;
     list-style: none;
 }
 
